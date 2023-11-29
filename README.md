@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
